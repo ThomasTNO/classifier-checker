@@ -36,7 +36,7 @@ parser.add_argument(
     "--accept",
     type=lambda arg: arg.split(","),
     default=[],
-    help="Accepted classifier`(s) (comma-separated)",
+    help="Accepted classifier(s) (comma-separated)",
 )
 parser.add_argument(
     "-d",

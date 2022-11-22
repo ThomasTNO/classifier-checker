@@ -26,7 +26,7 @@ optional arguments:
   --ignore-private      Ignore all classifiers that start with "Private ::"
   --trove               Ensure that classifiers are in line with trove-classifiers, the canonical source for classifiers on PyPI
   -a ACCEPT, --accept ACCEPT
-                        Accepted classifier`(s) (comma-separated)
+                        Accepted classifier(s) (comma-separated)
   -d DENY, --deny DENY  Denied classifier(s) (comma-separated)
   -af ACCEPT_FILE, --accept-file ACCEPT_FILE
                         Path to file containing accepted classifier(s) (new line-separated)
