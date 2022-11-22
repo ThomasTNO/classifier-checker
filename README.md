@@ -14,7 +14,7 @@ $ pip install classifier-checker
 $ classifier-checker --help
 usage: classifier-checker [-h] [--strict] [--ignore-private] [--trove] [-a ACCEPT] [-d DENY] [-af ACCEPT_FILE] [-df DENY_FILE] [--verbose] package
 
-Classifier-checker v0.1.0.
+Classifier-checker v0.1.2.
 Classifier-checker validates configured classifiers for you!
 
 positional arguments:
